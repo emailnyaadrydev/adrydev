@@ -18,10 +18,10 @@
 
 "MODE_BACKUP_ADS" : true,
 "MODE_NO_ADS" : false,
-"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_START" : true, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"JSON_POPUP_WAIT" : "Server Json Ready . . .Bro",
 "MODE_NO_ADS_TRUE" : "Pro Version Actived",
 
 // PENGATURAN IKLAN
@@ -43,9 +43,9 @@
 
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "4479011",
+"UNITY_GAME_ID" : "4652451",
 
-"STARTAPPID" : "207333353",
+"STARTAPPID" : "200899080",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
