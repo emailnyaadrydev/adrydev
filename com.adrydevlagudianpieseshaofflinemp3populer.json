@@ -21,7 +21,7 @@
 "ADS_ON_START" : true, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"JSON_POPUP_WAIT" : "Server Json Ready . . .Bro",
+"JSON_POPUP_WAIT" : "Server Json Ready . . .Bro2",
 "MODE_NO_ADS_TRUE" : "Pro Version Actived",
 
 // PENGATURAN IKLAN
@@ -30,8 +30,8 @@
 // UNITY      backup startapp
 // TAPDAQ     backup unity backup startapp
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
-"PENGATURAN_IKLAN_BANNER" : "UNITY",
-"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
 "INTER_COUNT" : 5,
 
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/",
